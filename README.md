@@ -1,4 +1,4 @@
-# AI-Applications-Portfolio
+# AI-Applications-Course-Overview
 
 This repository documents my learning journey through an Artificial Intelligence Applications course, with a strong focus on how AI can be applied to solve real-world problems. Throughout the course, I explored how AI supports decision-making, automation, and user interaction across various domains such as healthcare, retail, transportation, and business analytics.
 
